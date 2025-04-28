@@ -1,8 +1,6 @@
 # ZFontTextView
 Android字体，分析了Android系统自带的4种样式效果，以及对思源黑体的安装和实现进行详解。最后自定义字体TextView（ZFontTextView）。使用工具Android Studio
 
->作者：邹峰立，微博：zrunker，邮箱：zrunker@yahoo.com，微信公众号：书客创作，个人平台：[www.ibooker.cc](http://www.ibooker.cc)。
-
 >本文选自[书客创作](http://www.ibooker.cc)平台第14篇文章。[阅读原文](http://www.ibooker.cc/article/14/detail) 。
 
 ![书客创作](http://upload-images.jianshu.io/upload_images/3480018-880151e7a8fcc76f..jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
